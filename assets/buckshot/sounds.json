@@ -6,5 +6,54 @@
 	"shotgun.rack.back":{"sounds":["buckshot:shotgun/rack_back"]},
 	"shotgun.foley":{"sounds":["buckshot:shotgun/foley/0","buckshot:shotgun/foley/1","buckshot:shotgun/foley/2","buckshot:shotgun/foley/3","buckshot:shotgun/foley/4","buckshot:shotgun/foley/5","buckshot:shotgun/foley/6","buckshot:shotgun/foley/7","buckshot:shotgun/foley/8"]},
 
-	"item.grab":{"sounds":["buckshot:item/grab/1","buckshot:item/grab/2","buckshot:item/grab/3","buckshot:item/grab/4","buckshot:item/grab/5","buckshot:item/grab/6","buckshot:item/grab/7","buckshot:item/grab/8","buckshot:item/grab/9","buckshot:item/grab/10"]}
+
+	"item.grab":{"sounds":["buckshot:item/grab/1","buckshot:item/grab/2","buckshot:item/grab/3","buckshot:item/grab/4","buckshot:item/grab/5","buckshot:item/grab/6","buckshot:item/grab/7","buckshot:item/grab/8","buckshot:item/grab/9","buckshot:item/grab/10"]},
+
+	"item.item.adrenaline.pickup":{"sounds":["buckshot:item/item/adrenaline/pickup"]},
+	"item.item.adrenaline.place":{"sounds":["buckshot:item/item/adrenaline/place"]},
+	"item.item.adrenaline.self_use":{"sounds":["buckshot:item/item/adrenaline/self_use/1","buckshot:item/item/adrenaline/self_use/2"]},
+	"item.item.adrenaline.other_use":{"sounds":["buckshot:item/item/adrenaline/other_use"]},
+
+	"item.item.beer.pickup":{"sounds":["buckshot:item/item/beer/pickup"]},
+	"item.item.beer.place":{"sounds":["buckshot:item/item/beer/place"]},
+	"item.item.beer.self_use":{"sounds":["buckshot:item/item/beer/self_use"]},
+	"item.item.beer.other_use":{"sounds":["buckshot:item/item/beer/other_use"]},
+
+	"item.item.burner_phone.pickup":{"sounds":["buckshot:item/item/burner_phone/pickup"]},
+	"item.item.burner_phone.place":{"sounds":["buckshot:item/item/burner_phone/place"]},
+	"item.item.burner_phone.self_use":{"sounds":["buckshot:item/item/burner_phone/self_use/1","buckshot:item/item/burner_phone/self_use/2"]},
+	"item.item.burner_phone.other_use":{"sounds":["buckshot:item/item/burner_phone/other_use"]},
+
+	"item.item.cigarettes.pickup":{"sounds":["buckshot:item/item/cigarettes/pickup"]},
+	"item.item.cigarettes.place":{"sounds":["buckshot:item/item/cigarettes/place"]},
+	"item.item.cigarettes.self_use":{"sounds":["buckshot:item/item/cigarettes/self_use"]},
+	"item.item.cigarettes.other_use":{"sounds":["buckshot:item/item/cigarettes/other_use"]},
+
+	"item.item.hand_saw.pickup":{"sounds":["buckshot:item/item/hand_saw/pickup"]},
+	"item.item.hand_saw.place":{"sounds":["buckshot:item/item/hand_saw/place"]},
+	"item.item.hand_saw.self_use":{"sounds":["buckshot:item/item/hand_saw/self_use"]},
+	"item.item.hand_saw.other_use":{"sounds":["buckshot:item/item/hand_saw/other_use"]},
+
+	"item.item.inverter.pickup":{"sounds":["buckshot:item/item/inverter/pickup"]},
+	"item.item.inverter.place":{"sounds":["buckshot:item/item/inverter/place"]},
+	"item.item.inverter.self_use":{"sounds":["buckshot:item/item/inverter/self_use"]},
+	"item.item.inverter.other_use":{"sounds":["buckshot:item/item/inverter/other_use"]},
+
+	"item.item.jammer.pickup":{"sounds":["buckshot:item/item/jammer/pickup"]},
+	"item.item.jammer.place":{"sounds":["buckshot:item/item/jammer/place"]},
+	"item.item.jammer.bootup":{"sounds":["buckshot:item/item/jammer/bootup"]},
+	"item.item.jammer.self_use.use":{"sounds":["buckshot:item/item/jammer/self_use/use"]},
+	"item.item.jammer.self_use.put_away":{"sounds":["buckshot:item/item/jammer/self_use/put_away"]},
+	"item.item.jammer.other_use.use":{"sounds":["buckshot:item/item/jammer/other_use/use"]},
+	"item.item.jammer.other_use.put_away":{"sounds":["buckshot:item/item/jammer/other_use/put_away"]},
+
+	"item.item.magnifying_glass.pickup":{"sounds":["buckshot:item/item/magnifying_glass/pickup"]},
+	"item.item.magnifying_glass.place":{"sounds":["buckshot:item/item/magnifying_glass/place"]},
+	"item.item.magnifying_glass.self_use":{"sounds":["buckshot:item/item/magnifying_glass/self_use"]},
+	"item.item.magnifying_glass.other_use":{"sounds":["buckshot:item/item/magnifying_glass/other_use"]},
+
+	"item.item.remote.pickup":{"sounds":["buckshot:item/item/remote/pickup"]},
+	"item.item.remote.place":{"sounds":["buckshot:item/item/remote/place"]},
+	"item.item.remote.self_use":{"sounds":["buckshot:item/item/remote/self_use"]},
+	"item.item.remote.other_use":{"sounds":["buckshot:item/item/remote/other_use"]}
 }
