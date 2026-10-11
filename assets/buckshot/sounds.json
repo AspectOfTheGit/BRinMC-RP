@@ -1,13 +1,22 @@
 {
-	"shotgun.blank_shell":{"sounds":["buckshot:shotgun/blank_shell"]},
-	"shotgun.live_shell":{"sounds":["buckshot:shotgun/live_shell"]},
 	"shotgun.rack":{"sounds":["buckshot:shotgun/rack"]},
 	"shotgun.rack.forward":{"sounds":["buckshot:shotgun/rack_forward"]},
 	"shotgun.rack.back":{"sounds":["buckshot:shotgun/rack_back"]},
-	"shotgun.foley":{"sounds":["buckshot:shotgun/foley/0","buckshot:shotgun/foley/1","buckshot:shotgun/foley/2","buckshot:shotgun/foley/3","buckshot:shotgun/foley/4","buckshot:shotgun/foley/5","buckshot:shotgun/foley/6","buckshot:shotgun/foley/7","buckshot:shotgun/foley/8"]},
+	"shotgun.gunshot.live":{"sounds":["buckshot:shotgun/gunshot/live/0","buckshot:shotgun/gunshot/live/1","buckshot:shotgun/gunshot/live/2","buckshot:shotgun/gunshot/live/3","buckshot:shotgun/gunshot/live/4","buckshot:shotgun/gunshot/live/5","buckshot:shotgun/gunshot/live/6","buckshot:shotgun/gunshot/live/7","buckshot:shotgun/gunshot/live/8","buckshot:shotgun/gunshot/live/9","buckshot:shotgun/gunshot/live/10","buckshot:shotgun/gunshot/live/11"]},
+	"shotgun.gunshot.blank":{"sounds":["buckshot:shotgun/gunshot/dry/0","buckshot:shotgun/gunshot/dry/1","buckshot:shotgun/gunshot/dry/2"]},
+	"shotgun.shell.drop":{"sounds":["buckshot:shotgun/shell/drop/1","buckshot:shotgun/shell/drop/2","buckshot:shotgun/shell/drop/3","buckshot:shotgun/shell/drop/4","buckshot:shotgun/shell/drop/5","buckshot:shotgun/shell/drop/6","buckshot:shotgun/shell/drop/7"]},
+	"shotgun.self.drop":{"sounds":["buckshot:shotgun/self/drop"]},
+	"shotgun.self.pickup":{"sounds":["buckshot:shotgun/self/pickup"]},
+	"shotgun.self.use":{"sounds":["buckshot:shotgun/self/use"]},
+	"shotgun.other.drop":{"sounds":["buckshot:shotgun/other/drop"]},
+	"shotgun.other.pickup":{"sounds":["buckshot:shotgun/other/pickup"]},
+	"shotgun.other.use":{"sounds":["buckshot:shotgun/other/use"]},
 
-
-	"item.grab":{"sounds":["buckshot:item/grab/1","buckshot:item/grab/2","buckshot:item/grab/3","buckshot:item/grab/4","buckshot:item/grab/5","buckshot:item/grab/6","buckshot:item/grab/7","buckshot:item/grab/8","buckshot:item/grab/9","buckshot:item/grab/10"]},
+	"item.briefcase.grab":{"sounds":["buckshot:item/briefcase/grab/1","buckshot:item/briefcase/grab/2","buckshot:item/briefcase/grab/3","buckshot:item/briefcase/grab/4","buckshot:item/briefcase/grab/5"]},
+	"item.briefcase.self.place":{"sounds":["buckshot:item/briefcase/self_place"]},
+	"item.briefcase.self.remove":{"sounds":["buckshot:item/briefcase/self_remove"]},
+	"item.briefcase.other.place":{"sounds":["buckshot:item/briefcase/other_place"]},
+	"item.briefcase.other.remove":{"sounds":["buckshot:item/briefcase/other_remove"]},
 
 	"item.item.adrenaline.pickup":{"sounds":["buckshot:item/item/adrenaline/pickup"]},
 	"item.item.adrenaline.place":{"sounds":["buckshot:item/item/adrenaline/place"]},
@@ -33,6 +42,7 @@
 	"item.item.hand_saw.place":{"sounds":["buckshot:item/item/hand_saw/place"]},
 	"item.item.hand_saw.self_use":{"sounds":["buckshot:item/item/hand_saw/self_use"]},
 	"item.item.hand_saw.other_use":{"sounds":["buckshot:item/item/hand_saw/other_use"]},
+	"item.item.hand_saw.grow_barrel":{"sounds":["buckshot:item/item/hand_saw/grow_barrel"]},
 
 	"item.item.inverter.pickup":{"sounds":["buckshot:item/item/inverter/pickup"]},
 	"item.item.inverter.place":{"sounds":["buckshot:item/item/inverter/place"]},
